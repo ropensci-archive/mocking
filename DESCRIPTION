@@ -1,0 +1,12 @@
+Package: mocking
+Title: Package implementing mocker.
+Version: 0.1
+Authors@R: "Scott Chamberlain <myrmecocystus@gmail.com> [aut, cre]"
+Description: Package implementing mocker.
+License: MIT
+LazyData: true
+Imports:
+    httr,
+    jsonlite,
+    plyr,
+    mocker
